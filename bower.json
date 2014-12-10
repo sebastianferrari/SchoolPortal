@@ -1,0 +1,28 @@
+{
+  "name": "SchoolPortal",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "latest"
+  },
+  "devDependencies": {
+
+  },
+  "description": "Internal project",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Sebastian Ferrari <sebastian.ferrari@globant.com>"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
